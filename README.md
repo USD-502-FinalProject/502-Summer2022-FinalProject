@@ -93,10 +93,10 @@ The purpose of this project is to present the process used to determine the best
 
 ## Exploratory Data Analysis
 
-# Univariate Analysis
+Univariate Analysis
 * pandas-profiling package used to generate a report containing general statistics for each attribute in dataset, see link [here](https://github.com/USD-502-FinalProject/502-Summer2022-FinalProject/blob/main/Telecom%20Customer%20Churn%20Data%20-%20Univariate%20Analysis.html)
 
-# Multivariate Analysis
+Multivariate Analysis
 
 
 
@@ -108,5 +108,10 @@ The purpose of this project is to present the process used to determine the best
 
 
 ## Modeling & Evaluation
-* 
+* Logistic Regression
+* Naive Bayes
+* Decision Tree
+* C50 Tree
+* Random Forest
+* K-Means
 
