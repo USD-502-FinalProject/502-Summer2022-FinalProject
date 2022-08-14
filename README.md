@@ -86,10 +86,20 @@ The purpose of this project is to present the process used to determine the best
 
 
 ## Data Pre-Processing
+* SimpleImputer class was used to impute missing column values on a case-by-case basis
+* Boxplots were used to detect outliers - Number of Referrals, Avg Monthly GB Download, Total Refunds, Total Long Distance Charges, Total Revenue
+* Dataset was rebalanced for equal number of Churn and Not Churned customers
 
+
+![Sample Printout of Dataset](../master/dbtable.png)
 
 
 ## Exploratory Data Analysis
+# Univariate Analysis
+* pandas-profiling package used to generate a report containing general statistics for each attribute in dataset, see link [here](https://github.com/USD-502-FinalProject/502-Summer2022-FinalProject/blob/main/Telecom%20Customer%20Churn%20Data%20-%20Univariate%20Analysis.html)
+
+# Multivariate Analysis
+* Some highlights
 
 
 
