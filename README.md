@@ -85,4 +85,19 @@ The purpose of this project is to present the process used to determine the best
 * [Presentation slides ](https://docs.google.com/presentation/d/14RM_kKek7yXIJMSbz1JzJaUCNy4UuMgv5izydzaegHs/edit)
 
 
+## Data Pre-Processing
+
+
+
+## Exploratory Data Analysis
+
+
+
+
+## Features Selection
+
+
+
+
+## Modeling & Evaluation
 
