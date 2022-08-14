@@ -62,18 +62,18 @@ The purpose of this project is to present the process used to determine the best
 * from sklearn.cluster import KMeans
 * from pandas.api.types import CategoricalDtype
 * %matplotlib inline
+* from sklearn.ensemble import RandomForestClassifier
 * import statsmodels.api as sm
 * import statsmodels.tools.tools as stattools
 * from sklearn.metrics import confusion_matrix
 * from sklearn.tree import DecisionTreeClassifier, export_graphviz
 * from sklearn.tree import plot_tree
+* import random
+* from sklearn.model_selection import train_test_split
+* from sklearn.naive_bayes import MultinomialNB
 * from sklearn.linear_model import LogisticRegression
 * from sklearn.model_selection import KFold, cross_val_score
 * from sklearn import tree
-* from sklearn.ensemble import RandomForestClassifier
-* from sklearn.model_selection import train_test_split
-* from sklearn.metrics import confusion_matrix
-* from sklearn.naive_bayes import MultinomialNB
 
 ## Getting Started
 
