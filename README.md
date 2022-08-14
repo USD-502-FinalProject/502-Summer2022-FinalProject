@@ -7,9 +7,9 @@ This is a final project for ADS502: Applied Data Mining(https://github.com/USD-5
 The purpose of this project is to present the process used to determine the best set of features to predict customer churn for a California based telecommunications company set in Q2-2022. (April-June 2022). Binary classifications models employed for this research project include Logisitc Regression, Decision Tree, and KNN. Finally, 5-Fold cross validation was carried out to evaluate each of the models for performance evaluation in predicting customer churn. The model performance evaluation metrics show that the set of features defined through our process are effective in predicting customer churn. With the added support from an additional three predicition models that are as effective if not more than those currently existing in the telecommunications field. 
 
 ### Team 3
--Connie Chow
--Christine Vu
--Vannesa Salazar
+* Connie Chow
+* Christine Vu
+* Vannesa Salazar
 
 
 ### Methods Used
