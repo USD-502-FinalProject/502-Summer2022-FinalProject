@@ -79,7 +79,7 @@ The purpose of this project is to present the process used to determine the best
 
 1. Clone this repo using raw data.
 2. add code and push new code into repo. To ensure cohesive code make sure to run all cells prior to upload. 
-3. Use ###### flags 
+3. Use ###### flags for output
 
 ## Featured Notebooks/Analysis/Deliverables
 * [Presentation slides ](https://docs.google.com/presentation/d/14RM_kKek7yXIJMSbz1JzJaUCNy4UuMgv5izydzaegHs/edit)
