@@ -109,9 +109,9 @@ Multivariate Analysis
 
 ## Modeling & Evaluation
 * Logistic Regression
-* Naive Bayes
 * Decision Tree
-* C50 Tree
+* Naïve Bayes
 * Random Forest
-* K-Means
-
+* K-means
+* CART
+* C5.0
