@@ -1,0 +1,58 @@
+1 Payment Method_Bank Withdrawal
+1 Payment Method_Credit Card
+1 Payment Method_Mailed Check
+2 Offer_Offer A
+3 Offer_None
+4 Married_Yes
+5 Married_No
+6 Gender_Male
+7 Gender_Female
+8 Unlimited Data_missing
+9 Offer_Offer C
+10 Unlimited Data_Yes
+11 Offer_Offer D
+12 Unlimited Data_No
+13 Offer_Offer E
+14 Streaming Music_missing
+15 Phone Service_No
+16 Streaming Music_Yes
+17 Phone Service_Yes
+18 Streaming Music_No
+19 Multiple Lines_No
+20 Streaming Movies_missing
+21 Multiple Lines_Yes
+22 Streaming Movies_Yes
+23 Multiple Lines_missing
+24 Streaming Movies_No
+25 Internet Service_No
+26 Streaming TV_missing
+27 Internet Service_Yes
+28 Streaming TV_Yes
+29 Internet Type_Cable
+30 Streaming TV_No
+31 Internet Type_DSL
+32 Premium Tech Support_missing
+33 Internet Type_Fiber Optic
+34 Premium Tech Support_Yes
+35 Internet Type_missing
+36 Premium Tech Support_No
+37 Online Security_No
+38 Device Protection Plan_missing
+39 Online Security_Yes
+40 Device Protection Plan_Yes
+41 Online Security_missing
+42 Device Protection Plan_No
+43 Online Backup_No
+44 Online Backup_missing
+45 Online Backup_Yes
+46 Total Revenue
+47 Total Long Distance Charges
+48 Total Extra Data Charges
+49 Total Refunds
+50 Total Charges
+51 Monthly Charge
+52 Avg Monthly GB Download
+53 Avg Monthly Long Distance Charges
+54 Tenure in Months
+55 Number of Referrals
+56 Number of Dependents
