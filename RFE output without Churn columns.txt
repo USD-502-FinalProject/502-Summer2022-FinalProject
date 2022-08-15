@@ -1,0 +1,55 @@
+1 Customer Status
+1 Offer_Offer B
+1 Contract_Month-to-Month
+1 Contract_One Year
+1 Contract_Two Year
+1 Paperless Billing_No
+1 Paperless Billing_Yes
+1 Payment Method_Bank Withdrawal
+1 Payment Method_Credit Card
+1 Payment Method_Mailed Check
+2 Offer_Offer A
+3 Offer_None
+4 Married_Yes
+5 Married_No
+6 Gender_Male
+7 Gender_Female
+8 Unlimited Data_Yes
+9 Offer_Offer C
+10 Unlimited Data_No
+11 Offer_Offer D
+12 Streaming Music_Yes
+13 Offer_Offer E
+14 Streaming Music_No
+15 Phone Service_No
+16 Streaming Movies_Yes
+17 Phone Service_Yes
+18 Streaming Movies_No
+19 Multiple Lines_No
+20 Streaming TV_Yes
+21 Multiple Lines_Yes
+22 Streaming TV_No
+23 Internet Service_No
+24 Premium Tech Support_Yes
+25 Internet Service_Yes
+26 Premium Tech Support_No
+27 Internet Type_Cable
+28 Device Protection Plan_Yes
+29 Internet Type_DSL
+30 Device Protection Plan_No
+31 Internet Type_Fiber Optic
+32 Online Backup_Yes
+33 Online Security_No
+34 Online Backup_No
+35 Online Security_Yes
+36 Total Revenue
+37 Total Long Distance Charges
+38 Total Extra Data Charges
+39 Total Refunds
+40 Total Charges
+41 Monthly Charge
+42 Avg Monthly GB Download
+43 Avg Monthly Long Distance Charges
+44 Tenure in Months
+45 Number of Referrals
+46 Number of Dependents
