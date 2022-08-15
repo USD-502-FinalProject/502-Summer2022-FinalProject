@@ -1,0 +1,80 @@
+1 Customer Status
+1 Offer_Offer B
+1 Churn Reason_Long distance charges
+1 Churn Reason_Moved
+1 Churn Reason_Network reliability
+1 Churn Reason_Poor expertise of online support
+1 Churn Reason_Poor expertise of phone support
+1 Churn Reason_Price too high
+1 Churn Reason_Product dissatisfaction
+1 Churn Reason_Service dissatisfaction
+2 Offer_Offer A
+3 Offer_None
+4 Married_Yes
+5 Married_No
+6 Gender_Male
+7 Gender_Female
+8 Churn Reason_Limited range of services
+9 Offer_Offer C
+10 Churn Reason_Lack of self-service on Website
+11 Offer_Offer D
+12 Churn Reason_Lack of affordable download/upload speed
+13 Offer_Offer E
+14 Churn Reason_Extra data charges
+15 Phone Service_No
+16 Churn Reason_Don't know
+17 Phone Service_Yes
+18 Churn Reason_Deceased
+19 Multiple Lines_No
+20 Churn Reason_Competitor offered more data
+21 Multiple Lines_Yes
+22 Churn Reason_Competitor offered higher download speeds
+23 Internet Service_No
+24 Churn Reason_Competitor made better offer
+25 Internet Service_Yes
+26 Churn Reason_Competitor had better devices
+27 Internet Type_Cable
+28 Churn Reason_Attitude of support person
+29 Internet Type_DSL
+30 Churn Reason_Attitude of service provider
+31 Internet Type_Fiber Optic
+32 Churn Category_Price
+33 Online Security_No
+34 Churn Category_Other
+35 Online Security_Yes
+36 Churn Category_Dissatisfaction
+37 Online Backup_No
+38 Churn Category_Competitor
+39 Online Backup_Yes
+40 Churn Category_Attitude
+41 Device Protection Plan_No
+42 Payment Method_Mailed Check
+43 Device Protection Plan_Yes
+44 Payment Method_Credit Card
+45 Premium Tech Support_No
+46 Payment Method_Bank Withdrawal
+47 Premium Tech Support_Yes
+48 Paperless Billing_Yes
+49 Streaming TV_No
+50 Paperless Billing_No
+51 Streaming TV_Yes
+52 Contract_Two Year
+53 Streaming Movies_No
+54 Contract_One Year
+55 Streaming Movies_Yes
+56 Contract_Month-to-Month
+57 Streaming Music_No
+58 Unlimited Data_Yes
+59 Streaming Music_Yes
+60 Unlimited Data_No
+61 Total Revenue
+62 Total Long Distance Charges
+63 Total Extra Data Charges
+64 Total Refunds
+65 Total Charges
+66 Monthly Charge
+67 Avg Monthly GB Download
+68 Avg Monthly Long Distance Charges
+69 Tenure in Months
+70 Number of Referrals
+71 Number of Dependents
