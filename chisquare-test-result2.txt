@@ -1,0 +1,579 @@
+Chi-Square Test Results:This file lists the pairs of variables that were found to be highly correlated.  Use this to choose one to discard in feature selection process.
+dependent: Interpret p-value: 
+, Streaming TV, Streaming Music
+dependent: Interpret p-value: 
+, Online Backup, Device Protection Plan
+dependent: Interpret p-value: 
+, Internet Service, Contract
+dependent: Interpret p-value: 
+, Number of Referrals, Online Backup
+dependent: Interpret p-value: 
+, Zip Code, Avg Monthly Long Distance Charges
+dependent: Interpret p-value: 
+, Contract, Paperless Billing
+dependent: Interpret p-value: 
+, Tenure in Months, Monthly Charge
+dependent: Interpret p-value: 
+, Tenure in Months, Offer
+dependent: Interpret p-value: 
+, Offer, Customer Status
+dependent: Interpret p-value: 
+, Streaming Music, Monthly Charge
+dependent: Interpret p-value: 
+, Streaming TV, Streaming Movies
+dependent: Interpret p-value: 
+, Married, Number of Referrals
+dependent: Interpret p-value: 
+, Married, Customer Status
+dependent: Interpret p-value: 
+, Number of Referrals, Internet Type
+dependent: Interpret p-value: 
+, Payment Method, Total Extra Data Charges
+dependent: Interpret p-value: 
+, Online Security, Monthly Charge
+dependent: Interpret p-value: 
+, Total Refunds, Total Long Distance Charges
+dependent: Interpret p-value: 
+, Number of Referrals, Payment Method
+dependent: Interpret p-value: 
+, Multiple Lines, Customer Status
+dependent: Interpret p-value: 
+, Online Backup, Monthly Charge
+dependent: Interpret p-value: 
+, Age, Customer Status
+dependent: Interpret p-value: 
+, Tenure in Months, Streaming Movies
+dependent: Interpret p-value: 
+, Longitude, Monthly Charge
+dependent: Interpret p-value: 
+, Premium Tech Support, Customer Status
+dependent: Interpret p-value: 
+, Phone Service, Streaming Movies
+dependent: Interpret p-value: 
+, Age, Total Refunds
+dependent: Interpret p-value: 
+, Offer, Multiple Lines
+dependent: Interpret p-value: 
+, Offer, Premium Tech Support
+dependent: Interpret p-value: 
+, Married, Multiple Lines
+dependent: Interpret p-value: 
+, Married, Premium Tech Support
+dependent: Interpret p-value: 
+, Number of Dependents, Churn Category
+dependent: Interpret p-value: 
+, Online Security, Contract
+dependent: Interpret p-value: 
+, Age, Paperless Billing
+dependent: Interpret p-value: 
+, Internet Service, Churn Category
+dependent: Interpret p-value: 
+, Payment Method, Churn Category
+dependent: Interpret p-value: 
+, Age, Multiple Lines
+dependent: Interpret p-value: 
+, Multiple Lines, Premium Tech Support
+dependent: Interpret p-value: 
+, Online Backup, Contract
+dependent: Interpret p-value: 
+, Premium Tech Support, Paperless Billing
+dependent: Interpret p-value: 
+, Age, Premium Tech Support
+dependent: Interpret p-value: 
+, Device Protection Plan, Customer Status
+dependent: Interpret p-value: 
+, Longitude, Churn Reason
+dependent: Interpret p-value: 
+, Number of Referrals, Total Refunds
+dependent: Interpret p-value: 
+, Number of Referrals, Online Security
+dependent: Interpret p-value: 
+, Number of Dependents, Payment Method
+dependent: Interpret p-value: 
+, Tenure in Months, Total Charges
+dependent: Interpret p-value: 
+, Tenure in Months, Total Revenue
+dependent: Interpret p-value: 
+, Offer, Streaming Music
+dependent: Interpret p-value: 
+, Internet Service, Total Long Distance Charges
+dependent: Interpret p-value: 
+, Contract, Churn Reason
+dependent: Interpret p-value: 
+, Total Charges, Total Long Distance Charges
+dependent: Interpret p-value: 
+, Longitude, Avg Monthly Long Distance Charges
+dependent: Interpret p-value: 
+, Number of Dependents, Longitude
+dependent: Interpret p-value: 
+, Married, Streaming Music
+dependent: Interpret p-value: 
+, Number of Referrals, Paperless Billing
+dependent: Interpret p-value: 
+, Monthly Charge, Customer Status
+dependent: Interpret p-value: 
+, Multiple Lines, Streaming Music
+dependent: Interpret p-value: 
+, Number of Referrals, Avg Monthly GB Download
+dependent: Interpret p-value: 
+, Age, Streaming Music
+dependent: Interpret p-value: 
+, Device Protection Plan, Premium Tech Support
+dependent: Interpret p-value: 
+, Avg Monthly Long Distance Charges, Total Long Distance Charges
+dependent: Interpret p-value: 
+, Premium Tech Support, Streaming Music
+dependent: Interpret p-value: 
+, Offer, Total Extra Data Charges
+dependent: Interpret p-value: 
+, Internet Service, Customer Status
+dependent: Interpret p-value: 
+, Payment Method, Customer Status
+dependent: Interpret p-value: 
+, Contract, Total Charges
+dependent: Interpret p-value: 
+, Married, Streaming Movies
+dependent: Interpret p-value: 
+, Latitude, Total Charges
+dependent: Interpret p-value: 
+, Total Long Distance Charges, Total Revenue
+dependent: Interpret p-value: 
+, Tenure in Months, Streaming TV
+dependent: Interpret p-value: 
+, Multiple Lines, Streaming Movies
+dependent: Interpret p-value: 
+, Paperless Billing, Payment Method
+dependent: Interpret p-value: 
+, Phone Service, Streaming TV
+dependent: Interpret p-value: 
+, Premium Tech Support, Streaming Movies
+dependent: Interpret p-value: 
+, Streaming Movies, Total Extra Data Charges
+dependent: Interpret p-value: 
+, Number of Referrals, Offer
+dependent: Interpret p-value: 
+, Device Protection Plan, Streaming Music
+dependent: Interpret p-value: 
+, Number of Dependents, Paperless Billing
+dependent: Interpret p-value: 
+, Number of Dependents, Latitude
+dependent: Interpret p-value: 
+, Offer, Online Backup
+dependent: Interpret p-value: 
+, City, Churn Category
+dependent: Interpret p-value: 
+, Phone Service, Online Security
+dependent: Interpret p-value: 
+, Avg Monthly GB Download, Customer Status
+dependent: Interpret p-value: 
+, Number of Dependents, Avg Monthly GB Download
+dependent: Interpret p-value: 
+, Married, Online Backup
+dependent: Interpret p-value: 
+, Multiple Lines, Online Backup
+dependent: Interpret p-value: 
+, Number of Referrals, Streaming Movies
+dependent: Interpret p-value: 
+, Total Refunds, Total Extra Data Charges
+dependent: Interpret p-value: 
+, Tenure in Months, Device Protection Plan
+dependent: Interpret p-value: 
+, Total Extra Data Charges, Customer Status
+dependent: Interpret p-value: 
+, Offer, Payment Method
+dependent: Interpret p-value: 
+, Multiple Lines, Total Charges
+dependent: Interpret p-value: 
+, Device Protection Plan, Total Extra Data Charges
+dependent: Interpret p-value: 
+, Number of Referrals, Churn Reason
+dependent: Interpret p-value: 
+, Online Security, Customer Status
+dependent: Interpret p-value: 
+, City, Longitude
+dependent: Interpret p-value: 
+, Online Backup, Customer Status
+dependent: Interpret p-value: 
+, Married, Payment Method
+dependent: Interpret p-value: 
+, Multiple Lines, Internet Type
+dependent: Interpret p-value: 
+, Age, Internet Type
+dependent: Interpret p-value: 
+, Churn Category, Churn Reason
+dependent: Interpret p-value: 
+, Multiple Lines, Payment Method
+dependent: Interpret p-value: 
+, Age, Payment Method
+dependent: Interpret p-value: 
+, Streaming TV, Monthly Charge
+dependent: Interpret p-value: 
+, Premium Tech Support, Payment Method
+dependent: Interpret p-value: 
+, City, Number of Referrals
+dependent: Interpret p-value: 
+, City, Customer Status
+dependent: Interpret p-value: 
+, Monthly Charge, Total Extra Data Charges
+dependent: Interpret p-value: 
+, Number of Referrals, Total Charges
+dependent: Interpret p-value: 
+, Phone Service, Monthly Charge
+dependent: Interpret p-value: 
+, Online Security, Premium Tech Support
+dependent: Interpret p-value: 
+, Married, Streaming TV
+dependent: Interpret p-value: 
+, Online Backup, Premium Tech Support
+dependent: Interpret p-value: 
+, Number of Referrals, Unlimited Data
+dependent: Interpret p-value: 
+, Offer, Online Security
+dependent: Interpret p-value: 
+, Avg Monthly GB Download, Streaming Music
+dependent: Interpret p-value: 
+, Multiple Lines, Streaming TV
+dependent: Interpret p-value: 
+, Internet Service, Total Extra Data Charges
+dependent: Interpret p-value: 
+, Total Charges, Total Extra Data Charges
+dependent: Interpret p-value: 
+, Streaming TV, Contract
+dependent: Interpret p-value: 
+, Premium Tech Support, Streaming TV
+dependent: Interpret p-value: 
+, Married, Online Security
+dependent: Interpret p-value: 
+, Device Protection Plan, Payment Method
+dependent: Interpret p-value: 
+, Payment Method, Churn Reason
+dependent: Interpret p-value: 
+, Streaming Movies, Customer Status
+dependent: Interpret p-value: 
+, City, Multiple Lines
+dependent: Interpret p-value: 
+, Multiple Lines, Online Security
+dependent: Interpret p-value: 
+, Age, Online Security
+dependent: Interpret p-value: 
+, Tenure in Months, Contract
+dependent: Interpret p-value: 
+, Paperless Billing, Monthly Charge
+dependent: Interpret p-value: 
+, Zip Code, Churn Category
+dependent: Interpret p-value: 
+, Number of Dependents, Avg Monthly Long Distance Charges
+dependent: Interpret p-value: 
+, Streaming Music, Contract
+dependent: Interpret p-value: 
+, Number of Dependents, Online Backup
+dependent: Interpret p-value: 
+, Contract, Monthly Charge
+dependent: Interpret p-value: 
+, Latitude, Monthly Charge
+dependent: Interpret p-value: 
+, Online Security, Streaming Music
+dependent: Interpret p-value: 
+, Online Backup, Streaming Music
+dependent: Interpret p-value: 
+, Married, Avg Monthly GB Download
+dependent: Interpret p-value: 
+, Number of Referrals, Streaming TV
+dependent: Interpret p-value: 
+, Multiple Lines, Paperless Billing
+dependent: Interpret p-value: 
+, Married, Device Protection Plan
+dependent: Interpret p-value: 
+, Streaming Movies, Paperless Billing
+dependent: Interpret p-value: 
+, Age, Avg Monthly GB Download
+dependent: Interpret p-value: 
+, Number of Dependents, Internet Type
+dependent: Interpret p-value: 
+, City, Streaming Music
+dependent: Interpret p-value: 
+, Zip Code, Longitude
+dependent: Interpret p-value: 
+, Internet Service, Payment Method
+dependent: Interpret p-value: 
+, Avg Monthly GB Download, Online Backup
+dependent: Interpret p-value: 
+, Online Security, Total Extra Data Charges
+dependent: Interpret p-value: 
+, Online Backup, Total Extra Data Charges
+dependent: Interpret p-value: 
+, Offer, Monthly Charge
+dependent: Interpret p-value: 
+, Latitude, Churn Reason
+dependent: Interpret p-value: 
+, Married, Monthly Charge
+dependent: Interpret p-value: 
+, Married, Offer
+dependent: Interpret p-value: 
+, Zip Code, Customer Status
+dependent: Interpret p-value: 
+, Internet Type, Customer Status
+dependent: Interpret p-value: 
+, City, Streaming Movies
+dependent: Interpret p-value: 
+, Number of Referrals, Device Protection Plan
+dependent: Interpret p-value: 
+, Multiple Lines, Monthly Charge
+dependent: Interpret p-value: 
+, Monthly Charge, Total Refunds
+dependent: Interpret p-value: 
+, Age, Monthly Charge
+dependent: Interpret p-value: 
+, Latitude, Avg Monthly Long Distance Charges
+dependent: Interpret p-value: 
+, Streaming Movies, Streaming Music
+dependent: Interpret p-value: 
+, Premium Tech Support, Monthly Charge
+dependent: Interpret p-value: 
+, Offer, Streaming Movies
+dependent: Interpret p-value: 
+, Number of Referrals, Internet Service
+dependent: Interpret p-value: 
+, Number of Dependents, Online Security
+dependent: Interpret p-value: 
+, Online Security, Churn Category
+dependent: Interpret p-value: 
+, Tenure in Months, Total Long Distance Charges
+dependent: Interpret p-value: 
+, Total Charges, Total Refunds
+dependent: Interpret p-value: 
+, Longitude, Churn Category
+dependent: Interpret p-value: 
+, Internet Type, Paperless Billing
+dependent: Interpret p-value: 
+, Married, Contract
+dependent: Interpret p-value: 
+, Internet Type, Premium Tech Support
+dependent: Interpret p-value: 
+, City, Online Backup
+dependent: Interpret p-value: 
+, Phone Service, Total Long Distance Charges
+dependent: Interpret p-value: 
+, Multiple Lines, Churn Reason
+dependent: Interpret p-value: 
+, Online Security, Payment Method
+dependent: Interpret p-value: 
+, Online Backup, Payment Method
+dependent: Interpret p-value: 
+, Premium Tech Support, Contract
+dependent: Interpret p-value: 
+, Streaming TV, Customer Status
+dependent: Interpret p-value: 
+, Avg Monthly Long Distance Charges, Total Refunds
+dependent: Interpret p-value: 
+, Internet Service, Paperless Billing
+dependent: Interpret p-value: 
+, Number of Dependents, Device Protection Plan
+dependent: Interpret p-value: 
+, Offer, Total Charges
+dependent: Interpret p-value: 
+, Avg Monthly GB Download, Online Security
+dependent: Interpret p-value: 
+, Tenure in Months, Customer Status
+dependent: Interpret p-value: 
+, Streaming Music, Customer Status
+dependent: Interpret p-value: 
+, Device Protection Plan, Streaming Movies
+dependent: Interpret p-value: 
+, Total Refunds, Churn Reason
+dependent: Interpret p-value: 
+, Internet Type, Streaming Music
+dependent: Interpret p-value: 
+, Married, Unlimited Data
+dependent: Interpret p-value: 
+, Number of Referrals, Contract
+dependent: Interpret p-value: 
+, Avg Monthly GB Download, Paperless Billing
+dependent: Interpret p-value: 
+, Longitude, Customer Status
+dependent: Interpret p-value: 
+, Number of Dependents, Monthly Charge
+dependent: Interpret p-value: 
+, Number of Dependents, Offer
+dependent: Interpret p-value: 
+, Phone Service, Internet Service
+dependent: Interpret p-value: 
+, Tenure in Months, Multiple Lines
+dependent: Interpret p-value: 
+, Payment Method, Monthly Charge
+dependent: Interpret p-value: 
+, Streaming Movies, Payment Method
+dependent: Interpret p-value: 
+, Tenure in Months, Premium Tech Support
+dependent: Interpret p-value: 
+, Internet Type, Streaming Movies
+dependent: Interpret p-value: 
+, Contract, Customer Status
+dependent: Interpret p-value: 
+, Phone Service, Premium Tech Support
+dependent: Interpret p-value: 
+, Offer, Streaming TV
+dependent: Interpret p-value: 
+, Total Refunds, Total Revenue
+dependent: Interpret p-value: 
+, Online Security, Paperless Billing
+dependent: Interpret p-value: 
+, Number of Dependents, Contract
+dependent: Interpret p-value: 
+, Number of Dependents, Zip Code
+dependent: Interpret p-value: 
+, Internet Service, Churn Reason
+dependent: Interpret p-value: 
+, City, Latitude
+dependent: Interpret p-value: 
+, Tenure in Months, Streaming Music
+dependent: Interpret p-value: 
+, Married, Number of Dependents
+dependent: Interpret p-value: 
+, Phone Service, Streaming Music
+dependent: Interpret p-value: 
+, Monthly Charge, Total Charges
+dependent: Interpret p-value: 
+, Zip Code, Total Charges
+dependent: Interpret p-value: 
+, Age, Number of Dependents
+dependent: Interpret p-value: 
+, Monthly Charge, Total Revenue
+dependent: Interpret p-value: 
+, Offer, Device Protection Plan
+dependent: Interpret p-value: 
+, Internet Type, Payment Method
+dependent: Interpret p-value: 
+, Device Protection Plan, Streaming TV
+dependent: Interpret p-value: 
+, Offer, Internet Service
+dependent: Interpret p-value: 
+, Tenure in Months, Total Extra Data Charges
+dependent: Interpret p-value: 
+, Multiple Lines, Device Protection Plan
+dependent: Interpret p-value: 
+, Total Charges, Total Revenue
+dependent: Interpret p-value: 
+, Phone Service, Total Extra Data Charges
+dependent: Interpret p-value: 
+, City, Monthly Charge
+dependent: Interpret p-value: 
+, Online Security, Streaming Movies
+dependent: Interpret p-value: 
+, Multiple Lines, Internet Service
+dependent: Interpret p-value: 
+, Online Backup, Streaming Movies
+dependent: Interpret p-value: 
+, Age, Internet Service
+dependent: Interpret p-value: 
+, Online Security, Churn Reason
+dependent: Interpret p-value: 
+, Number of Referrals, Customer Status
+dependent: Interpret p-value: 
+, Internet Type, Streaming TV
+dependent: Interpret p-value: 
+, Tenure in Months, Online Backup
+dependent: Interpret p-value: 
+, Married, Tenure in Months
+dependent: Interpret p-value: 
+, Paperless Billing, Total Extra Data Charges
+dependent: Interpret p-value: 
+, Contract, Total Extra Data Charges
+dependent: Interpret p-value: 
+, Streaming TV, Payment Method
+dependent: Interpret p-value: 
+, Internet Type, Online Security
+dependent: Interpret p-value: 
+, Streaming Movies, Monthly Charge
+dependent: Interpret p-value: 
+, Online Security, Online Backup
+dependent: Interpret p-value: 
+, City, Churn Reason
+dependent: Interpret p-value: 
+, City, Zip Code
+dependent: Interpret p-value: 
+, Offer, Contract
+dependent: Interpret p-value: 
+, Tenure in Months, Payment Method
+dependent: Interpret p-value: 
+, Phone Service, Internet Type
+dependent: Interpret p-value: 
+, Streaming Music, Payment Method
+dependent: Interpret p-value: 
+, Number of Referrals, Multiple Lines
+dependent: Interpret p-value: 
+, Number of Referrals, Premium Tech Support
+dependent: Interpret p-value: 
+, Zip Code, Latitude
+dependent: Interpret p-value: 
+, Longitude, Total Charges
+dependent: Interpret p-value: 
+, Multiple Lines, Contract
+dependent: Interpret p-value: 
+, Number of Dependents, Number of Referrals
+dependent: Interpret p-value: 
+, Number of Dependents, Customer Status
+dependent: Interpret p-value: 
+, Paperless Billing, Churn Category
+dependent: Interpret p-value: 
+, Device Protection Plan, Monthly Charge
+dependent: Interpret p-value: 
+, Number of Referrals, Tenure in Months
+dependent: Interpret p-value: 
+, Streaming Movies, Contract
+dependent: Interpret p-value: 
+, Latitude, Churn Category
+dependent: Interpret p-value: 
+, Married, Total Extra Data Charges
+dependent: Interpret p-value: 
+, Unlimited Data, Total Extra Data Charges
+dependent: Interpret p-value: 
+, Multiple Lines, Total Extra Data Charges
+dependent: Interpret p-value: 
+, Number of Dependents, Internet Service
+dependent: Interpret p-value: 
+, Contract, Payment Method
+dependent: Interpret p-value: 
+, Number of Referrals, Streaming Music
+dependent: Interpret p-value: 
+, Premium Tech Support, Total Extra Data Charges
+dependent: Interpret p-value: 
+, Tenure in Months, Total Refunds
+dependent: Interpret p-value: 
+, Tenure in Months, Online Security
+dependent: Interpret p-value: 
+, Online Security, Streaming TV
+dependent: Interpret p-value: 
+, Zip Code, Monthly Charge
+dependent: Interpret p-value: 
+, Internet Type, Monthly Charge
+dependent: Interpret p-value: 
+, Online Backup, Streaming TV
+dependent: Interpret p-value: 
+, Streaming TV, Paperless Billing
+dependent: Interpret p-value: 
+, Number of Dependents, Premium Tech Support
+dependent: Interpret p-value: 
+, Device Protection Plan, Contract
+dependent: Interpret p-value: 
+, Latitude, Longitude
+dependent: Interpret p-value: 
+, Internet Service, Monthly Charge
+dependent: Interpret p-value: 
+, Number of Dependents, Tenure in Months
+dependent: Interpret p-value: 
+, Streaming Music, Paperless Billing
+dependent: Interpret p-value: 
+, Paperless Billing, Customer Status
+dependent: Interpret p-value: 
+, Latitude, Customer Status
+dependent: Interpret p-value: 
+, Internet Type, Contract
+dependent: Interpret p-value: 
+, Contract, Total Refunds
+dependent: Interpret p-value: 
+, Zip Code, Churn Reason
+dependent: Interpret p-value: 
+, Number of Dependents, Streaming Music
+dependent: Interpret p-value: 
+, Online Security, Device Protection Plan
