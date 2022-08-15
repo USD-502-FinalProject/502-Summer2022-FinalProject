@@ -1,0 +1,120 @@
+Pairwise Correlation List - Pearson Correlation
+
+Number of Referrals, Married_Yes: 0.6728673054083731
+Tenure in Months, Total Charges: 0.8260735088595962
+Tenure in Months, Total Long Distance Charges: 0.6741490156444446
+Tenure in Months, Total Revenue: 0.8531462752059292
+Tenure in Months, Offer_Offer A: 0.4327513677844852
+Tenure in Months, Contract_Two Year: 0.5299559825121039
+Avg Monthly Long Distance Charges, Total Long Distance Charges: 0.5252217639441513
+Monthly Charge, Total Charges: 0.6228097700417131
+Monthly Charge, Total Revenue: 0.563248903598228
+Monthly Charge, Multiple Lines_Yes: 0.46739756209515754
+Monthly Charge, Internet Service_Yes: 0.7244771532309726
+Monthly Charge, Internet Type_Fiber Optic: 0.7383367423593141
+Monthly Charge, Online Backup_Yes: 0.4207072208556595
+Monthly Charge, Device Protection Plan_Yes: 0.4606847254417922
+Monthly Charge, Streaming TV_Yes: 0.5998381664674686
+Monthly Charge, Streaming Movies_Yes: 0.5957035658750849
+Monthly Charge, Streaming Music_Yes: 0.5083870898867476
+Monthly Charge, Unlimited Data_Yes: 0.5527748336575383
+Total Charges, Total Long Distance Charges: 0.6101851906103224
+Total Charges, Total Revenue: 0.9722121080286078
+Total Charges, Multiple Lines_Yes: 0.4686150456581276
+Total Charges, Online Security_Yes: 0.41192207395750946
+Total Charges, Online Backup_Yes: 0.5095065890194287
+Total Charges, Device Protection Plan_Yes: 0.5222550555367274
+Total Charges, Premium Tech Support_Yes: 0.43214624541573005
+Total Charges, Streaming TV_Yes: 0.5152168374742293
+Total Charges, Streaming Movies_Yes: 0.5201302080799762
+Total Charges, Streaming Music_Yes: 0.4404624326959225
+Total Extra Data Charges, Unlimited Data_No: 0.7789327717681542
+Total Long Distance Charges, Total Revenue: 0.7785587336876325
+Total Revenue, Multiple Lines_Yes: 0.46658250581009797
+Total Revenue, Online Backup_Yes: 0.4746670264697595
+Total Revenue, Device Protection Plan_Yes: 0.4757230782805824
+Total Revenue, Streaming TV_Yes: 0.4619515504251236
+Total Revenue, Streaming Movies_Yes: 0.4672883893165187
+Customer Status, Contract_Month-to-Month: 0.44842653318481057
+Customer Status, Churn Category_Competitor: 0.6126898397120116
+Phone Service_No, Multiple Lines_missing: 1.0
+Internet Service_No, Internet Type_missing: 1.0
+Internet Service_No, Online Security_missing: 1.0
+Internet Service_No, Online Backup_missing: 1.0
+Internet Service_No, Device Protection Plan_missing: 1.0
+Internet Service_No, Premium Tech Support_missing: 1.0
+Internet Service_No, Streaming TV_missing: 1.0
+Internet Service_No, Streaming Movies_missing: 1.0
+Internet Service_No, Streaming Music_missing: 1.0
+Internet Service_No, Unlimited Data_missing: 1.0
+Internet Service_Yes, Internet Type_Fiber Optic: 0.45765821891943825
+Internet Service_Yes, Online Security_No: 0.5224293380827284
+Internet Service_Yes, Online Backup_No: 0.46471980019614395
+Internet Service_Yes, Device Protection Plan_No: 0.4656584942706528
+Internet Service_Yes, Premium Tech Support_No: 0.5187332164827481
+Internet Service_Yes, Streaming TV_No: 0.4285039212787436
+Internet Service_Yes, Streaming TV_Yes: 0.41555189388029806
+Internet Service_Yes, Streaming Movies_No: 0.4253393333341443
+Internet Service_Yes, Streaming Movies_Yes: 0.4186750789702166
+Internet Service_Yes, Streaming Music_No: 0.456863778647979
+Internet Service_Yes, Unlimited Data_Yes: 0.7557338429377025
+Internet Type_missing, Online Security_missing: 1.0
+Internet Type_missing, Online Backup_missing: 1.0
+Internet Type_missing, Device Protection Plan_missing: 1.0
+Internet Type_missing, Premium Tech Support_missing: 1.0
+Internet Type_missing, Streaming TV_missing: 1.0
+Internet Type_missing, Streaming Movies_missing: 1.0
+Internet Type_missing, Streaming Music_missing: 1.0
+Internet Type_missing, Unlimited Data_missing: 1.0
+Online Security_No, Premium Tech Support_No: 0.47035931382475415
+Online Security_missing, Online Backup_missing: 1.0
+Online Security_missing, Device Protection Plan_missing: 1.0
+Online Security_missing, Premium Tech Support_missing: 1.0
+Online Security_missing, Streaming TV_missing: 1.0
+Online Security_missing, Streaming Movies_missing: 1.0
+Online Security_missing, Streaming Music_missing: 1.0
+Online Security_missing, Unlimited Data_missing: 1.0
+Online Backup_missing, Device Protection Plan_missing: 1.0
+Online Backup_missing, Premium Tech Support_missing: 1.0
+Online Backup_missing, Streaming TV_missing: 1.0
+Online Backup_missing, Streaming Movies_missing: 1.0
+Online Backup_missing, Streaming Music_missing: 1.0
+Online Backup_missing, Unlimited Data_missing: 1.0
+Device Protection Plan_No, Premium Tech Support_No: 0.4198920913162262
+Device Protection Plan_No, Streaming TV_No: 0.4207197491602455
+Device Protection Plan_No, Streaming Movies_No: 0.4295445476186706
+Device Protection Plan_Yes, Streaming Movies_Yes: 0.40211053776617345
+Device Protection Plan_missing, Premium Tech Support_missing: 1.0
+Device Protection Plan_missing, Streaming TV_missing: 1.0
+Device Protection Plan_missing, Streaming Movies_missing: 1.0
+Device Protection Plan_missing, Streaming Music_missing: 1.0
+Device Protection Plan_missing, Unlimited Data_missing: 1.0
+Premium Tech Support_missing, Streaming TV_missing: 1.0
+Premium Tech Support_missing, Streaming Movies_missing: 1.0
+Premium Tech Support_missing, Streaming Music_missing: 1.0
+Premium Tech Support_missing, Unlimited Data_missing: 1.0
+Streaming TV_No, Streaming Movies_No: 0.5377730397498398
+Streaming TV_No, Streaming Music_No: 0.47759985502107805
+Streaming TV_Yes, Streaming Movies_Yes: 0.5330938326943195
+Streaming TV_Yes, Streaming Music_Yes: 0.4553870029380838
+Streaming TV_missing, Streaming Movies_missing: 1.0
+Streaming TV_missing, Streaming Music_missing: 1.0
+Streaming TV_missing, Unlimited Data_missing: 1.0
+Streaming Movies_No, Streaming Music_No: 0.8541602959169977
+Streaming Movies_Yes, Streaming Music_Yes: 0.8485281327010227
+Streaming Movies_missing, Streaming Music_missing: 1.0
+Streaming Movies_missing, Unlimited Data_missing: 1.0
+Streaming Music_missing, Unlimited Data_missing: 1.0
+Churn Category_Attitude, Churn Reason_Attitude of service provider: 0.5384101159685242
+Churn Category_Attitude, Churn Reason_Attitude of support person: 0.831254663675187
+Churn Category_Competitor, Churn Reason_Competitor had better devices: 0.5856424107634842
+Churn Category_Competitor, Churn Reason_Competitor made better offer: 0.583681628361035
+Churn Category_Dissatisfaction, Churn Reason_Network reliability: 0.46506691493693764
+Churn Category_Dissatisfaction, Churn Reason_Product dissatisfaction: 0.48111662629413254
+Churn Category_Dissatisfaction, Churn Reason_Service dissatisfaction: 0.43474971030131276
+Churn Category_Other, Churn Reason_Don't know: 0.8419696041819471
+Churn Category_Other, Churn Reason_Moved: 0.497829920036775
+Churn Category_Price, Churn Reason_Extra data charges: 0.42461167966302793
+Churn Category_Price, Churn Reason_Long distance charges: 0.5449116449428537
+Churn Category_Price, Churn Reason_Price too high: 0.6021704532811565
+Churn Category_missing, Churn Reason_missing: 1.0
