@@ -101,9 +101,9 @@ Multivariate Analysis
 
 
 ## Features Selection
-* Refer to chi-square test in this file [here](https://github.com/USD-502-FinalProject/502-Summer2022-FinalProject/blob/main/chisquare-test2.py)
-* Pairwise Correlation
-* Correlation to Target
+* Refer to chi-square test in this file [here](https://github.com/USD-502-FinalProject/502-Summer2022-FinalProject/blob/main/chisquare-test-result2.txt)
+* Pairwise Correlation [here](https://github.com/USD-502-FinalProject/502-Summer2022-FinalProject/blob/main/Pairwise%20Correlation%20List.txt)
+* Correlation to Target 
 * Test for Column Variance
 
 
